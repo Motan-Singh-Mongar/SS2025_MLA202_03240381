@@ -30,10 +30,12 @@ Ans=>reward represent that every time pole is balance reward is equal to 1.
 
 #Q.The final average reward you calculated for the random agent in Exercise 2.
 Ans=>Average reward over 1000 episodes: 0.0140.
-![alt text](<Screenshot (28).png>)
+![Uploading Screenshot (34).png…]()
+
 
 #Q.A section on challenges: What was the most difficult part of this practical for you? (e.g., setting up the environment, understanding the step function's return values, structuring the loops).
 Ans=>The main challenges for me was to structure the loop. I have used for loop as questions already guided us that we have to run the code for 1000 time, so we know the number of episode to run(1000 times).
 
 #A section on key takeaways: What is the most important or surprising thing you learned?
+
 Ans=>The most surprising thing was that how low the performance of agent is, even after executing the code for 1000 times the total_reward seems to be very low. 
