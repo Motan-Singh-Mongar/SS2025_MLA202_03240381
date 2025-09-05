@@ -12,7 +12,7 @@ I have modified given code of Frozenlake ,printed the action_space and observati
 
 #Q.The answers to the questions from Exercise 1 about the CartPole environment's action and observation spaces.
 What type of space is the action space? How many actions are there?
-Ans=>It's a discrete(2): There are two possible action(0:Left, 1:Right).
+Ans=>It's a discrete(2): There are two possible action(0:Push cart to the left, 1:Push cart to the right).
 
 
 #Q.What type of space is the observation space? The output is Box(4,). This represents a continuous space with 4 numbers. Based on the problem, what could these four numbers possibly represent?
@@ -39,3 +39,4 @@ Ans=>The main challenges for me was to structure the loop. I have used for loop 
 #A section on key takeaways: What is the most important or surprising thing you learned?
 
 Ans=>The most surprising thing was that how low the performance of agent is, even after executing the code for 1000 times the total_reward seems to be very low. 
+
