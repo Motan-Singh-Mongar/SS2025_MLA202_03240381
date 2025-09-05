@@ -7,7 +7,7 @@ student_number: 03240381
 Reflection:
 
 #Q.A brief summary of the tasks you completed.
-I have modified given code of Frozenlake ,printed the action_space and observation_space as guided by question in exercise 1. In exercise 2 I have created outer loop to execute the code for 1000 times. I have used for loop as we know how many times the loop is going to execute. And I have created variable called num_episode to keep the track on which track is code executing. And I have removed     env.render(), print() and time.sleep() to execute the code faster. Is this statement correct
+Ans=>I have modified given code of Frozenlake ,printed the action_space and observation_space as guided by question in exercise 1. In exercise 2 I have created outer loop to execute the code for 1000 times. I have used for loop as we know how many times the loop is going to execute. And I have created variable called num_episode to keep the track on which track is code executing. And I have removed     env.render(), print() and time.sleep() to execute the code faster. Is this statement correct
 
 
 #Q.The answers to the questions from Exercise 1 about the CartPole environment's action and observation spaces.
@@ -37,7 +37,7 @@ Ans=>Average reward over 1000 episodes: 0.0140.
 Ans=>The main challenges for me was to structure the loop. I have used for loop as questions already guided us that we have to run the code for 1000 time, so we know the number of episode to run(1000 times).
 
 #A section on key takeaways: What is the most important or surprising thing you learned?
-
 Ans=>The most surprising thing was that how low the performance of agent is, even after executing the code for 1000 times the total_reward seems to be very low or sometimes zero. 
+
 
 
