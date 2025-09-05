@@ -38,5 +38,6 @@ Ans=>The main challenges for me was to structure the loop. I have used for loop 
 
 #A section on key takeaways: What is the most important or surprising thing you learned?
 
-Ans=>The most surprising thing was that how low the performance of agent is, even after executing the code for 1000 times the total_reward seems to be very low. 
+Ans=>The most surprising thing was that how low the performance of agent is, even after executing the code for 1000 times the total_reward seems to be very low or sometimes zero. 
+
 
