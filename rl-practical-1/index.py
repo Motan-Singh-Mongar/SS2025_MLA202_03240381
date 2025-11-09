@@ -49,7 +49,7 @@ while not terminated and not truncated:
     time.sleep(0.5)
 
 # After the loop, the episode is finished.
-print(f"\nEpisode finished! Total Reward: {total_reward}")
+print(f"\nEpisode finished! Total Reward: {total_reward}")  
 
 # 5. CLOSE the environment
 # This is important for cleaning up resources, especially the rendering window.
